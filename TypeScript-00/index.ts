@@ -1,1 +1,1 @@
-console.log("This is my code after struggle chal ja sim sim abc def");
+console.log("I will learn what is need to be learned");
