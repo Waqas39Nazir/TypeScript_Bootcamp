@@ -1,4 +1,4 @@
-console.log("I will learn what is need to be learned");
+console.log("I will learn what is need to be learned ABC");
 
 /** If not using nodemon
  * transpile JavaScript tsc
